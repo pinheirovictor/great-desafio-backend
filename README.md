@@ -55,22 +55,22 @@ O projeto disponibiliza uma API em 1 contexto diferentes: Usuario, onde utiliza 
 
 #### Usuario
 
-- /usuarios (POST)
-  - Espera as informações do modelo de dados Usário, exemplo:
-    ```
-          {
-             "name":"jose",
-             "cpf":"1555",
-             "rg":"12345678",
-             "birthDate":"2022-09-08",
-             "motherName":"maria"
-          }
-     ```                
-- /usuarios (GET)
-- /usuarios?nome=victor (GET)
-- /usuarios?cpf=000 (GET)
-- /usuarios?rg=00 (GET)
-- /usuarios/cpf/000 (GET)
-- /usuarios/cpf/000 (DELETE)
+   - /usuarios (POST)
+     - Espera as informações do modelo de dados Usário, exemplo:
+       ```
+             {
+                "name":"jose",
+                "cpf":"1555",
+                "rg":"12345678",
+                "birthDate":"2022-09-08",
+                "motherName":"maria"
+             }
+        ```                
+   - /usuarios (GET)
+   - /usuarios?nome=victor (GET)
+   - /usuarios?cpf=000 (GET)
+   - /usuarios?rg=00 (GET)
+   - /usuarios/cpf/000 (GET)
+   - /usuarios/cpf/000 (DELETE)
 
-
+#### Carriers
