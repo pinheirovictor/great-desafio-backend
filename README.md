@@ -1,4 +1,4 @@
-# great-desafio-backend
+# GREat-desafio-backend
 
 # Visão geral
 
