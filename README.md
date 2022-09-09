@@ -47,7 +47,7 @@ Pronto. A aplicação está disponível em http://localhost:8080
 ```
 Tomcat started on port(s): 8080 (http)
 Started AppConfig in xxxx seconds (JVM running for xxxx)
-
+```
 
 # API
 
