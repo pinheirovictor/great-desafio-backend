@@ -72,5 +72,3 @@ O projeto disponibiliza uma API em 1 contexto diferentes: Usuario, onde utiliza 
    - /usuarios?rg=00 (GET)
    - /usuarios/cpf/000 (GET)
    - /usuarios/cpf/000 (DELETE)
-
-#### Carriers
