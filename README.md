@@ -51,7 +51,7 @@ Started AppConfig in xxxx seconds (JVM running for xxxx)
 
 # API
 
-O projeto disponibiliza uma API em 1 contexto diferentes: Usuario, onde utiliza o padrão Rest de comunicação, produzindo e consumindo arquivos no formato JSON.
+O projeto disponibiliza uma API no contexto de Usuario, onde utiliza o padrão Rest de comunicação, produzindo e consumindo arquivos no formato JSON.
 
 #### Usuario
 
