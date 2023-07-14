@@ -8,7 +8,7 @@ O projeto é uma aplicação back-end com objetivo de demonstrar a produtividade
 
 - [Spring Boot](https://projects.spring.io/spring-boot) é uma ferramenta que simplifica a configuração e execução de aplicações Java stand-alone,  com conceitos de dependências “starters”, auto configuração e servlet container embutidos é proporcionado uma grande produtividade desde o start-up da aplicação até sua ida a produção.
 
-- [Spring MVC](https://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html) é um framework já consolidado no mercado, que a partir da versão fornece mecanismos simplificados para a criação de APIs RESTful através de anotação, além disso, também possui recursos de serialização e deserialização de objetos de forma transparente 
+- [Spring MVC](https://docs.spring.io/spring/docs/current/spring-framework-reference/html/mvc.html) é um framework já consolidado no mercado, que a partir da versão fornece mecanismos simplificados para a criação de APIs RESTful através de anotação, além disso, também possui recursos de serialização e deserialização de objetos de forma transparente.
  
 - [Spring Starter Web](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web) Starter para construção de aplicações web, incluindo RESTful, usando Spring MVC. Usa o Tomcat como o contêiner incorporado padrão.
  
@@ -60,7 +60,7 @@ O projeto disponibiliza uma API no contexto de Usuario, onde utiliza o padrão R
        ```
              {
                 "name":"jose",
-                "cpf":"1555",
+                "cpf":"15534567809",
                 "rg":"12345678",
                 "birthDate":"2022-09-08",
                 "motherName":"maria"
